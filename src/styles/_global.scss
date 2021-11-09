@@ -1,0 +1,12 @@
+$primary: darkcyan;
+$secondary: darkslategray;
+
+h1 {
+  color: $primary;
+}
+
+.container {
+  &__subtitle {
+    color: $secondary;
+  }
+}
